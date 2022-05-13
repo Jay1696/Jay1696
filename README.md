@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jayesh Patil /@Jay1696
+- 👀 I’m interested in Data Science and Machine Learning 
+- 🌱 I’m currently learning Artificial intelligence and Machine Learning 
+- 📫 Reach me @ jcp9596@gmail.com
+- linkedin : https://www.linkedin.com/in/jayeshcpatil/
+- 
