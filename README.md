@@ -1,7 +1,10 @@
 
 ![logo](https://github.com/Jay1696/Jay1696/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).gif)
 
-### Hi there 👋
+### Hi there 👋 I'm Jayesh Patil
+## SkillS and Experience
+![PythonPoweredGIF](https://github.com/Jay1696/Jay1696/assets/98408162/fb474328-555a-4905-b13c-33ba0c94e958)
+
 <!--
 **Jay1696/Jay1696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
