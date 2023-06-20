@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Jay1696/Jay1696/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).gif)
+![logo](https://github.com/Jay1696/Jay1696/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).gif
 
 ### Hi there 👋
 <!--
