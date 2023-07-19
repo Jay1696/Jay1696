@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay1696&show_icons=true&locale=en&layout=compact" alt="jay1696" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay1696&show_icons=true&locale=en" alt="jay1696" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay1696&" alt="jay1696" /></p>
